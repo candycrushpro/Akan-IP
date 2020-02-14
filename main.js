@@ -15,13 +15,13 @@ function giveAkanName () {
         alert("please enter a valid year");
     }
     else if (month <= 0 || month > 12) {
-        alert("Month is between 1 and 12");
+        alert("month is between 1 and 12");
     }
     else if (day <= 0 || day > 31){
         alert("Date is between 1 and 31");
     }
     else if (validate == false) {
-        alert("Invalid !!");
+        alert("try again wrong input!!");
     }
     if(gender ==="male" && year > 0 && month > 0 && month < 13 && day > 0 && day < 32){
         akanName = maleNames[dayBorn];
