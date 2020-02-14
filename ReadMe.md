@@ -9,7 +9,7 @@
 
 ## Set up instruction
 * There should be good internet connection.
-*  click the link <a href="https://candycrushpro.github.io/Akan-IP">here</a>
+*  click <a href="https://candycrushpro.github.io/Akan-IP">here</a> for the link to the website.
 
 ## Technology used
 * HTML
