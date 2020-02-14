@@ -71,6 +71,7 @@ p{
 }
 .content-table{
 border-collapse: collapse;
+border:2px solid white
 margin: 25px 0px;
 min-width: 400px;
 }
