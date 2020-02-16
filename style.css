@@ -59,6 +59,12 @@ h1{
     color: rgb(126, 180, 250);
     
 }
+h2{
+    margin-top: auto;
+    margin-bottom: 100px;
+    text-align: center;
+    font-family: 'Berkshire Swash', cursive;
+}
 p{
     font-size:25px;
     color: rgb(212, 223, 208);
