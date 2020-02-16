@@ -60,7 +60,7 @@ h1{
     
 }
 h2{
-    margin-top: auto;
+    margin-top: ;
     margin-bottom: 100px;
     text-align: center;
     font-family: 'Berkshire Swash', cursive;
@@ -71,6 +71,7 @@ p{
     font-family: italic;
 }
 #findout{
+    margin-top: 5px;
     background-color: pink;
     height:70vh;
 
@@ -80,6 +81,9 @@ border-collapse: collapse;
 border:2px solid white
 margin: 25px 0px;
 min-width: 400px;
+}
+.container{
+    margin-top: 50px;
 }
 
 
