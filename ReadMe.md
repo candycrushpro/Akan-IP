@@ -5,7 +5,7 @@
 * Dan Bradley Otieno
 
 ## Description of the project
-* 
+* This project is about how the Akan people name thier children with the day they were born.
 
 ## Set up instruction
 * There should be good internet connection.
@@ -15,6 +15,7 @@
 * HTML
 * CSS
 * Javascript
+* Bootstrap
 
 ## BDD
 * The section contains a short description of the Akan names.
