@@ -9,6 +9,7 @@ nav{
     background-color: antiquewhite;
     height:80px;
     width:100%;
+    position: fixed;
 }
 nav ul{
     float:right;
